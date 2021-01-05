@@ -3,7 +3,6 @@ CSS Hyperlink jika kita mengklik hyperlink pada halaman suatu website artinya ki
 
 # Description
 HTML "main.html"
-
-
-
-CSS "stylesheet.css"
+<img src="hyperlink.gif">
+CSS  "stylesheet.css"
+HYPERLLINK  "css-link.html, html-link.html"
