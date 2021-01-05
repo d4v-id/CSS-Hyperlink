@@ -10,3 +10,7 @@ HTML "main.html"
 CSS  "stylesheet.css"
 
 HYPERLINK  "css-link.html, html-link.html"
+
+# Support / Contact
+// https://saweria.co/vedd (Donasi)  
+// d4vbusiness@gmail.com (Gmail)
