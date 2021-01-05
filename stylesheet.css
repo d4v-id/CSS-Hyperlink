@@ -1,0 +1,45 @@
+table{
+    padding: 10px;
+    box-shadow: black 5px 8px 12px ;
+    border-radius: 8px;
+}
+/* HEAD TABLE*/
+th {
+    background-color: none;
+    padding: 10px;
+    margin-bottom: 8px;
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 3px;
+    border: none;
+    box-shadow:purple 1px 4px 6px;
+    
+}
+td{
+    padding: 10px;
+    font-size: 14px;
+    color: black;
+}
+a:link{
+    padding: 10px;
+    font-size: 14px;
+    color: black;
+    text-decoration-line: none;
+}
+a:hover{
+    padding: 10px;
+    font-size: 14px;
+    text-shadow: purple 1px 2px 8px;
+    color: purple;
+    border-bottom: 2px solid purple;
+    border-radius: 7px;
+    text-decoration-line: none;
+}
+a:visited{
+    padding: 10px;
+    size: 14px;
+    color: black;
+    text-decoration-line: none;
+}
